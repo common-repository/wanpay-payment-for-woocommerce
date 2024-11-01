@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "Credit Card Information"
+msgstr "Credit Card Information"
+
+msgid "Cardholder"
+msgstr "Cardholder"
+
+msgid "Card number"
+msgstr "Card number"
+
+msgid "CVV"
+msgstr "CVV"
+
+msgid "Expire Date"
+msgstr "Expire Date"
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Transaction Date"
+msgstr "Transaction Date"
+
+msgid "Payment order number"
+msgstr "Payment order number"
+
+msgid "Enable payment"
+msgstr "Enable payment"
+
+msgid "App Secret"
+msgstr "App Secret"
+
+msgid "Signing method"
+msgstr "Signing method"
+
+msgid "Signing method, the latest encryption method should be RSA2, fill in as needed"
+msgstr "Signing method, the latest encryption method should be RSA2, fill in as needed"
+
+msgid "Default gateway"
+msgstr "Default gateway"
+
+msgid "Enabling the environment"
+msgstr "Enabling the environment"
+
+msgid "Title that users will see during settlement"
+msgstr "Title that users will see during settlement"
+
+msgid "Modify the gateway address according to the document"
+msgstr "Modify the gateway address according to the document"
+
+msgid "MERCHANT ID"
+msgstr "MERCHANT ID"

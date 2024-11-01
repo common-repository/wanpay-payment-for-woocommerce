@@ -1,0 +1,59 @@
+msgid "WANPAYPAY"
+msgstr ""
+
+msgid "Credit Card Information"
+msgstr ""
+
+msgid "Cardholder"
+msgstr ""
+
+msgid "Card number"
+msgstr ""
+
+msgid "CVV"
+msgstr ""
+
+msgid "Expire Date"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Transaction Date"
+msgstr ""
+
+msgid "Payment order number"
+msgstr ""
+
+msgid "Enable payment"
+msgstr ""
+
+msgid "App Secret"
+msgstr ""
+
+msgid "Signing method"
+msgstr ""
+
+msgid "Signing method, the latest encryption method should be RSA2, fill in as needed"
+msgstr ""
+
+msgid "Default gateway"
+msgstr ""
+
+msgid "Enabling the environment"
+msgstr ""
+
+msgid "Title that users will see during settlement"
+msgstr ""
+
+msgid "Modify the gateway address according to the document"
+msgstr ""
+
+msgid "MERCHANT ID"
+msgstr ""
